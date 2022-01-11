@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá eu sou o dev-ribeiro 👋
+
+<div align="center">
+  <a href="https://github.com/dev-ribeiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-ribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ribeiro&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <!--
 **dev-ribeiro/dev-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
